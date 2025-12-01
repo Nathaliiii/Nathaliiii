@@ -12,8 +12,6 @@ Results-driven Software Engineer with hands-on experience in full-stack developm
 
 ---
 
----
-
 ### 💼 Projects
 - **Yorkshire Aero Spares (UK) – WordPress Website**  
   Built a custom aviation-focused website with SEO optimization and AOG inquiry forms. Deployed on Hostinger with optimized performance.
@@ -29,21 +27,6 @@ Results-driven Software Engineer with hands-on experience in full-stack developm
 
 - **Visit Sri Lanka – Admin Web & Mobile App**  
   Developed admin panel with authentication, booking management, and festival calendar; supported Android and web applications for users and admins.
-
----
-
-### 🎓 Education
-- **BSc (Hons) Software Engineering**, Cardiff Metropolitan University, UK – 2025 (First Class)  
-- **Higher Diploma in Software Engineering**, Cardiff Metropolitan University, UK – 2022 (Merit Pass)
-
----
-
-### 📜 Certifications
-- **Examine the Copilot for Microsoft 365 Design** – Microsoft, 2025  
-- **Build a RAG-Based Copilot Solution with Your Own Data Using Azure AI Studio** – Microsoft Learn, 2025  
-- **UI/UX for Beginners** – Great Learning Academy, 2024  
-- **Full-Stack Development 101** – SkillUp by Simplilearn, 2024  
-- **Programming Basics** – Great Learning Academy, 2024
 
 ---
 
