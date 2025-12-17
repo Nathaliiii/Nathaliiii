@@ -13,13 +13,13 @@ Results-driven Software Engineer with hands-on experience in full-stack developm
 ---
 
 ### 💼 Projects
-- **Yorkshire Aero Spares (UK) – WordPress Website**  
+- **Yorkshire Aero Spares (UK based company) – WordPress Website**  
   Built a custom aviation-focused website with SEO optimization and AOG inquiry forms. Deployed on Hostinger with optimized performance.
 
 - **EcoFarmLink – Smart Surplus Management Platform**  
   Developed a platform connecting farmers to buyers, including transport coordination, real-time tracking, and AI chatbot support. Selected for university research publication.
 
-- **Singer Fashion Academy – WordPress Website**  
+- **Singer Sri Lanka - Singer Fashion Academy – WordPress Website**  
   Developed a dynamic website with interactive course features aligned with Singer's digital branding.
 
 - **Pet Care Mobile App**  
