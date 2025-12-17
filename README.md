@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-Results-driven Software Engineer with hands-on experience in full-stack development, workflow automation, ERP integrations, and cloud-based solutions. Skilled in building scalable web and mobile applications with a strong foundation in OOP, data structures, algorithms, analytics, and Agile methodologies. Passionate about modern software solutions and continuous learning.
+Results-driven Software Engineer with hands-on experience in full-stack development, workflow automation and ERP integrations. Skilled in building scalable web and mobile applications with a strong foundation in OOP, data structures, algorithms, analytics, and Agile methodologies. Passionate about modern software solutions and continuous learning.
 
 ---
 
