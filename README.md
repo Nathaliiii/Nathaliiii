@@ -2,8 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Nathaliiii&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nathali De Silva</h1>
+<h1 align="center">Hi 👋, I'm Nathali De Silva</h1> 
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
+<h4 📧 Email: [nathalidesilva0523@gmail.com](mailto:nathalidesilva0523@gmail.com)</h4>
 
 ---
 
